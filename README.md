@@ -4,6 +4,6 @@
 - press "Reconstruct spectrum" to plot Hp proteoforms generated in silico over the native MS mass profile, where available
 - press "Add maximas" to plot maximas detected in the native MS mass profile
 - point to the bar to see its mass and the glycan composition
-- point to any other proteoform to see the difference in mass and glycan composition compared to the previously clicked proteoform
+- click any proteofrom and point cursor to any other proteoform to see the relative difference in mass and glycan composition 
 
 ## optimized view for Google Chrome browser
